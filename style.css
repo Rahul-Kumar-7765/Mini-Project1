@@ -1,0 +1,20 @@
+#example1 {
+    border: 10px solid rgb(219, 123, 219);
+    padding: 15px;
+    background: rgb(173, 216, 230);
+    background-clip: content-box;  
+  }
+  
+  #example2 {
+    border: 10px solid rgb(219, 123, 219);
+    padding: 15px;
+    background: lightblue;
+    background-clip: content-box;
+  }
+  
+  #example3 {
+    border: 10px solid rgb(219, 123, 219);
+    padding: 15px;
+    background: lightblue;
+    background-clip: content-box;
+  }
